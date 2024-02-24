@@ -1,0 +1,23 @@
+h1{
+    color:cadetblue;
+}
+
+
+/* # + id 이름 : id 선언 */
+#bg{
+    background-color: aliceblue;
+}
+
+#color{
+    color:cadetblue;
+}
+
+
+/* . + class 이름 : class 선언 */
+.size{
+    font-size: 50px;
+}
+
+.color{
+    color:cadetblue;
+}
